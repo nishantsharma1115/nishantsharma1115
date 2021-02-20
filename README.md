@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/nishantsharma1115/nishantsharma1115/blob/main/2833678.jpg?raw=true" height="400" />
-</p>
-
 # Hi there👋! I'm [Nishant](https://nishantsharma1115.github.io/) 🙋‍♂️
 
 ![Profile views](https://gpvc.arturio.dev/nishantsharma1115)
