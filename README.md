@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/nishantsharma1115)
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/nishantsharma1115/nishantsharma1115/blob/main/43885-laptop-working.gif" />
+<img align="right" height="640" width="640" alt="GIF" src="https://github.com/nishantsharma1115/nishantsharma1115/blob/main/43885-laptop-working.gif" />
 
 _**LATEST UPDATE:**_ _Exploring Android Advanced Development and using api in Android apps_ 🥽.
 
