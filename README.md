@@ -4,7 +4,7 @@
 
 <img align="right" height="300" width="300" alt="GIF" src="https://github.com/nishantsharma1115/nishantsharma1115/blob/main/43885-laptop-working.gif" />
 
-_**LATEST UPDATE:**_ _Exploring Android Advanced Development and using api in Android apps_ 🥽.
+_**LATEST UPDATE:**_ _Exploring REST API Design using Spring boot with JAVA_ 🥽.
 
 #### 🎍 Welcome to my Hub 👨‍💻
 
