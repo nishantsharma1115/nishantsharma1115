@@ -12,7 +12,7 @@ _**LATEST UPDATE:**_ _Exploring REST API Design using Spring boot with JAVA_ �
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
-- 🌐 Little bit exploring Web development too.
+- 🌐 Little bit exploring Flutter too.
 - ⚡ Fun fact: Happiness should be a function without any parameters.
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
