@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/nishantsharma1115)
 
-<img align="right" height="300" width="300" alt="GIF" src="undraw_developer_activity_bv83.png" />
+<img align="right" height="300" width="300" alt="GIF" src="43885-laptop-working.gif" />
 
 _**LATEST UPDATE:**_ _Exploring .NET Framework using C# Language and learning SQL_ 🥽.
 
