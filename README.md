@@ -19,4 +19,12 @@ _**LATEST UPDATE:**_ _Exploring .NET Framework using C# Language and learning SQ
 
 ![Nishant"s Status](https://github-readme-stats.vercel.app/api?username=nishantsharma1115&show_icons=true&hide_border=true)
 
+<br/>
+<br/>
+
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nishantsharma1115&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br/>
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsharma1115&" alt="nishantsharma1115" /></p>
