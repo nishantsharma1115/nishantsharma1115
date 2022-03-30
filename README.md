@@ -22,9 +22,4 @@ _**LATEST UPDATE:**_ _Exploring Node.js and learning SQL_ 🥽.
 <br/>
 <br/>
 
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nishantsharma1115&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-<br/>
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsharma1115&" alt="nishantsharma1115" /></p>
