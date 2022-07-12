@@ -8,7 +8,7 @@ _**LATEST UPDATE:**_ _Exploring Node.js and learning SQL_ 🥽.
 
 #### 🎍 Welcome to my Hub 👨‍💻
 
-- 👨‍🎓 22 year old Final Year Computer Science Engineering student and Android developer.
+- 👨‍🎓 22 year old Android developer.
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
